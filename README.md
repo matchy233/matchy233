@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there! 👋 I'm Matchy
 
-<!--
-**matchy233/matchy233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior undergraduate doing double major in Biology and CSE. I'm interested in Computational Biology and have been planning to pursue a higher degree in this area. Apart from this I also want to learn more about System Programming and Distributed Computing.
 
-Here are some ideas to get you started:
+### Things I'm doing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠 **Currently working on**: SRA-search
+   
+- 🌱 **Currently learning**: `C++`, `Kubernetes`
+   
+- 📖 **Currently reading**
+
+   | Book Title | Progress |
+   |:---|:---:|
+   | Distributed Systems: Concepts and Design | ██░░░░░░░░░░░░░░░░░░ 10.28% |
+   | Distributed Systems: Principles and Paradigms | █░░░░░░░░░░░░░░░░░░░   05.04% |
+   | Introduction to Algorithms | ███████▒░░░░░░░░░░░░ 37.46% |
+   | Silent Spring | ███▒░░░░░░░░░░░░░░░░ 17.00% |
