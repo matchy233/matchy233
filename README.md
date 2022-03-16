@@ -3,4 +3,4 @@
 - 🎈 Interested in a lot of things
 - 💜 Love Open Source
 
-All my pinned repos are not so-called "featured" repos 😂 I pin repos just to find them more easily
+Most of my pinned repos are not so-called "featured" repos 😂 I pin repos just to find them more easily
