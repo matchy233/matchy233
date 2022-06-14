@@ -11,8 +11,7 @@ Most of my pinned repos are not so-called "featured" repos 😂 I pin repos just
 <!--START_SECTION:waka-->
 
 ```text
-Python       8 hrs 34 mins   █████████░░░░░░░░░░░░░░░░   36.47 %
-Other        7 hrs 32 mins   ████████░░░░░░░░░░░░░░░░░   32.07 %
+Other        5 hrs 50 mins   ██████████░░░░░░░░░░░░░░░   40.42 %
 ```
 
 <!--END_SECTION:waka-->
