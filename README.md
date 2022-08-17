@@ -11,7 +11,7 @@ Most of my pinned repos are not so-called "featured" repos 😂 I pin repos just
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
