@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Matchy
 
-- 🧬 Major in Biology and CSE
+- 🧬 MSc in Comp Bio & Bioinfo
 - 🎈 Interested in a lot of things
-- 💜 Love Open Source
+- 💜 Love Open Source & knowledge sharing
 
 Most of my pinned repos are not so-called "featured" repos 😂 I pin repos just to find them more easily
 
