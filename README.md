@@ -6,7 +6,7 @@
 
 Most of my pinned repos are not so-called "featured" repos 😂 I pin repos just to find them more easily
 
-Links for self reference: [random notes](https://mathcy233.github.io/random-notes)
+Links for self reference: [random notes](https://matchy233.github.io/random-notes)
 
 ## 📊 Weekly Development Breakdown
 
