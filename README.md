@@ -13,11 +13,11 @@ Links for self reference: [random notes](https://matchy233.github.io/random-note
 <!--START_SECTION:waka-->
 
 ```txt
-MDX          49 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.64 %
-Other        48 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.42 %
-Python       37 mins         █████░░░░░░░░░░░░░░░░░░░░   20.11 %
-Rust         21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
-TOML         15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+Rust         2 hrs 38 mins   ███████████░░░░░░░░░░░░░░   43.75 %
+MDX          49 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
+Other        48 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
+Python       43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
+TOML         24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
 ```
 
 <!--END_SECTION:waka-->
