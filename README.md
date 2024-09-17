@@ -13,11 +13,11 @@ Links for self reference: [random notes](https://matchy233.github.io/random-note
 <!--START_SECTION:waka-->
 
 ```txt
-Rust       4 hrs 46 mins   ████████████▒░░░░░░░░░░░░   49.63 %
-Other      4 hrs 21 mins   ███████████▒░░░░░░░░░░░░░   45.45 %
-Markdown   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
-BibTeX     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Git        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Other      4 hrs 21 mins   ████████████░░░░░░░░░░░░░   47.50 %
+Rust       4 hrs 21 mins   ████████████░░░░░░░░░░░░░   47.38 %
+Markdown   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+BibTeX     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Git        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
