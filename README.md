@@ -13,11 +13,11 @@ Links for self reference: [random notes](https://matchy233.github.io/random-note
 <!--START_SECTION:waka-->
 
 ```txt
-R           6 hrs 44 mins   ███████████░░░░░░░░░░░░░░   44.02 %
-Rust        4 hrs 21 mins   ███████░░░░░░░░░░░░░░░░░░   28.49 %
-Other       3 hrs 54 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.48 %
-Markdown    13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-sshconfig   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+R           7 hrs 42 mins   ███████████▓░░░░░░░░░░░░░   46.62 %
+Rust        4 hrs 20 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.25 %
+Other       2 hrs 36 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.81 %
+Markdown    1 hr 47 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
+sshconfig   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
