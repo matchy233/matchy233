@@ -13,11 +13,11 @@ Links for self reference: [random notes](https://matchy233.github.io/random-note
 <!--START_SECTION:waka-->
 
 ```txt
-Other        8 hrs 11 mins   ████████▒░░░░░░░░░░░░░░░░   33.37 %
-Typst        6 hrs 48 mins   ███████░░░░░░░░░░░░░░░░░░   27.70 %
-Markdown     3 hrs 46 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
-Text         3 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
-Python       1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+Other        8 hrs 11 mins   ██████████░░░░░░░░░░░░░░░   39.59 %
+Typst        5 hrs 44 mins   ███████░░░░░░░░░░░░░░░░░░   27.73 %
+Text         2 hrs 12 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
+Markdown     1 hr 52 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+Python       1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
 ```
 
 <!--END_SECTION:waka-->
