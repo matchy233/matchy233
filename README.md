@@ -13,7 +13,8 @@ Links for self reference: [random notes](https://matchy233.github.io/random-note
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other      10 mins         ████████████████████████▓   98.88 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
 <!--END_SECTION:waka-->
